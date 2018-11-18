@@ -2,8 +2,8 @@
 
 @font-face {
   font-family: 'CoreUI-Icons-Linear-Free';
-  src: url("../fonts/CoreUI-Icons-Linear-Free.eot?64h6xh");
-  src: url("../fonts/CoreUI-Icons-Linear-Free.eot?64h6xh#iefix") format("embedded-opentype"), url("../fonts/CoreUI-Icons-Linear-Free.ttf?64h6xh") format("truetype"), url("../fonts/CoreUI-Icons-Linear-Free.woff?64h6xh") format("woff"), url("../fonts/CoreUI-Icons-Linear-Free.svg?64h6xh#CoreUI-Icons-Linear") format("svg");
+  src: url("../fonts/vgapp-Icons-Linear-Free.eot?64h6xh");
+  src: url("../fonts/vgapp-Icons-Linear-Free.eot?64h6xh#iefix") format("embedded-opentype"), url("../fonts/vgapp-Icons-Linear-Free.ttf?64h6xh") format("truetype"), url("../fonts/vgapp-Icons-Linear-Free.woff?64h6xh") format("woff"), url("../fonts/vgapp-Icons-Linear-Free.svg?64h6xh#CoreUI-Icons-Linear") format("svg");
   font-weight: normal;
   font-style: normal;
 }
